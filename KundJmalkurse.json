@@ -1,0 +1,15 @@
+{
+	"news": [
+		{
+			"title": "Sommermalwoche 2020",
+			"start": "Termin: 06. bis 10.Juli 2020 jeweils von 9:00 bis 11:30 Uhr",
+			"kosten": "Kosten: EUR 185.- (inkl. aller Materialien)"
+		},
+		{
+			"title": "Kindermalkurse Frühjahr 2020",
+			"start": "Start: Freitag, 06.03.2020 für 6 -13 Jährige von 14.30 – 16.00 Uhr oder 16.05 – 17.35 Uhr",
+			"dauer": "1 x wöchentlich - 12 Nachmittage jeweils Freitag",
+			"kosten": "Kosten: EUR 205.- (inkl. aller Materialien)"
+		}
+	]
+}
